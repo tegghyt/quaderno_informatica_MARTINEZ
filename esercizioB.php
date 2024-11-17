@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<head>
-    <title>Document</title>
-</head>
+<html>
+    <head>
+    </head>
     <body>
         <a href="index.html">HOME QUADERNO</a>
 
 
-        <h1>Tavola Pitagorica</h1>
+        <h1>Ti Saluto</h1>
 
         <?php
 

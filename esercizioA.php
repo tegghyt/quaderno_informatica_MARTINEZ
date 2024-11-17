@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<head>
-    <title>Document</title>
-</head>
+<html>
+    <head>
+    </head>
     <body>
         <a href="index.html">HOME QUADERNO</a>
 
