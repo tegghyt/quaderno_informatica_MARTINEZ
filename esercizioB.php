@@ -4,11 +4,9 @@
     <body>
         <a href="index.html">HOME QUADERNO</a>
 
-
         <h1>Ti Saluto</h1>
 
         <?php
-
             $nome = "Paolo";
 
             $ora = date("H");
@@ -19,6 +17,9 @@
             } else {
                 $saluto = "Buonanotte";
             }
+
+            // Stampiamo il risultato
+            echo "<p>$saluto, $nome!</p>";
         ?>
     </body>
 </html>
