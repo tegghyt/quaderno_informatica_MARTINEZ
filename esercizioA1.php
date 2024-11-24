@@ -31,5 +31,10 @@
             ?>
 
         </table>
+        <footer>
+            <p>Nome Studente: Matteo Gildo Martienz</p>
+            <p>Classe: 5A Informatica</p>
+            <p>Email: martinez.m@galilux.edu.it</p>
+        </footer>
     </body>
 </html>

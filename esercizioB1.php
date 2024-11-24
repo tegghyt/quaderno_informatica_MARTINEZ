@@ -4,9 +4,11 @@
     <body>
         <a href="index.html">HOME QUADERNO</a>
 
+
         <h1>Ti Saluto</h1>
 
         <?php
+
             $nome = "Paolo";
 
             $ora = date("H");
@@ -18,8 +20,13 @@
                 $saluto = "Buonanotte";
             }
 
-            // Stampiamo il risultato
             echo "<p>$saluto, $nome!</p>";
         ?>
+        <footer>
+            <p>Nome Studente: Matteo Gildo Martienz</p>
+            <p>Classe: 5A Informatica</p>
+            <p>Email: martinez.m@galilux.edu.it</p>
+        </footer>
     </body>
+    
 </html>
